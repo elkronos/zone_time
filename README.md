@@ -1,6 +1,6 @@
 # Zone Time
 
-This repository contains several R and Python functions for handling and converting time zones. Below is a summary of each function available in this repository along with their dependencies.
+This repository contains several R and Python functions for handling and converting time zones. Below is a summary of each function available in this repository.
 
 ## Functions
 
