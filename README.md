@@ -21,7 +21,3 @@ This repository contains several R and Python functions for handling and convert
 ## Usage
 
 To utilize these functions, clone the repository and source the required function file in your R/Python scripts or consoles.
-
-# Contact
-- email: napoleonic_bores@proton.me
-- discord: elkronos
